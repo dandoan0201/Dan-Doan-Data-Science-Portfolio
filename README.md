@@ -1,5 +1,4 @@
 About <br>
-
 Welcome to my data science portfolio! Each of these projects were done through my completed Master of Science in Data Science at Bellevue University using real world data. The research analysis was heavily and thoroughly explore through the dataset where it provides critical insights to these problems.  You can take look at the solutions of my deep data analysis on how I went through the process and arriving to my consensus conclusions. 
 
 <br>
