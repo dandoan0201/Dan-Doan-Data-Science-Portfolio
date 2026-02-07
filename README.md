@@ -25,7 +25,6 @@ the airline industry as a whole.
 
 <br>
 <br>
-
 Contact <br>
 
 If you want to learn more about my data science projects, you can reach me at my email dandoan0201@gmail.com. 
