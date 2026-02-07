@@ -4,7 +4,7 @@ Welcome to my data science portfolio! Each of these projects were done through m
 <br>
 <br>
 
-### Work/Projects <br>
+### Work/Projects 
 <br>
 [Childcare Affordability](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Childcare_Affordability.ipynb ) <br>
 This project looks at the childcare affordability in the United States using the data from the 
@@ -24,7 +24,7 @@ the airline industry as a whole.
 <br>
 <br>
 
-### Contact <br>
+### Contact 
 If you want to learn more about my data science projects, you can reach me at my email dandoan0201@gmail.com. 
 
 
