@@ -13,7 +13,6 @@ National Database of Child Care Prices (NDCP). This deep dive analysis looks at 
 for childcare in particularity in Washington are considered to be affordable or not. This provides 
 great insights and information for families across all regions and aboard tailor to their childcare 
 options needs.  
-
 <br>
 
 [Airlines Aircrafts Fleet](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Airlines_Aircrafts_Fleet%20.ipynb) <br>
