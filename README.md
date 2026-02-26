@@ -60,6 +60,16 @@ on who visit the Presideent of the United States.
 
 <br>
 
+[Cardiovascular Disease Research](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Cardiovascular_Disease_Research_Analysis.ipynb) <br>
+This project was research on the likeihood of individual becoming a smoker. The dataset was analysis through hospital patient records in the country of
+Bangladesh. 
+
+<br>
+
+[Daily Internet Usage Statistics by Age Group ](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Daily_Internet_Usage_Statistics_by_Age_Group.ipynb) <br>
+This project was finding correlation on whether different age group have a factor upon increased usage of online activities. It gave greater clarity and insights 
+of different target age groups upon the findings. 
+
 
 ### Contact 
 If you want to learn more about my data science projects, you can reach me at my email dandoan0201@gmail.com. 
