@@ -7,7 +7,7 @@ Welcome to my data science portfolio! Each of these projects were done through m
 ### Work/Projects 
 <br>
 
-[Childcare Affordability](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Childcare_Affordability.ipynb) <br>
+[Childcare Affordability](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Childcare%20Affordability/Childcare_Affordability.ipynb) <br>
 This project looks at the childcare affordability in the United States using the data from the 
 National Database of Child Care Prices (NDCP). This deep dive analysis looks at whether the prices 
 for childcare in particularity in Washington are considered to be affordable or not. This provides 
@@ -15,7 +15,7 @@ great insights and information for families across all regions and aboard tailor
 options needs.  
 <br>
 
-[Airlines Aircrafts Fleet](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Airlines_Aircrafts_Fleet%20.ipynb) <br>
+[Airlines Aircrafts Fleet](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Airline%20Aircrafts%20Fleet/Airlines_Aircrafts_Fleet%20.ipynb) <br>
 This project looks at all airlines across the airline industry and their respective aircrafts’ fleets 
 that they own.  This is a research analysis to look for areas where airline companies can cut costs on 
 other areas other than fuel consumption. This gives great insights for investors who are interested in 
@@ -24,49 +24,49 @@ the airline industry as a whole.
 
 <br>
 
-[Employee Job Satisfaction](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Employee_Job_Satisfaction.ipynb) <br>
+[Employee Job Satisfaction](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Employee%20Job%20Satisfaction/Employee_Job_Satisfaction.ipynb) <br>
 This project was a research analysis on job satisfaction and how it was being measured across various factors. This provide greater clarity and 
 understanding of overall employee turnover rate and their effects. 
 
 <br>
 
-[Labor Market within Tech Sector](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Labor_Market_within_Tech_Sector.ipynb) <br>
+[Labor Market within Tech Sector](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Labor%20Market%20within%20Tech%20Sector/Labor_Market_within_Tech_Sector.ipynb) <br>
 This project was a research analysis on labor market in general, however, within the technology sector. This provide insight on whether the jobs
 that are avaliable and what's currently employed considered to be fair. 
 
 <br>
 
-[Netflix Viewership](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Netflix_Viewership.ipynb) <br>
+[Netflix Viewership](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Netflix%20Viewership/Netflix_Viewership.ipynb) <br>
 This research analysis was about finding the context behind Netflix top 10 viewership and popularity. This was a interesting find to the discrepancy between
 films and tv whether it was spoken in the language of English or not. 
 
 <br>
 
-[TSA Complaints](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/TSA_Complaints.ipynb) <br>
+[TSA Complaints](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/TSA%20Complaints/TSA_Complaints.ipynb) <br>
 This research consist of finding the context behind the use of power within the TSA agency in regards to the complaints that were filed. It is to determine 
 on whether increase of security violate people rights rather than protecting passengers prior to boarding on their flights. 
 
 <br>
 
-[Titanic Model Building Project](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Titanic%20Model%20Building%20Project%20Sample.ipynb) <br>
+[Titanic Model Building Project](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Titanic%20Model%20Building%20Project%20Sample/Titanic%20Model%20Building%20Project%20Sample.ipynb) <br>
 This was an interesting exercise on the study of the perished indiviuals who lives wasn't able to be saved. The dataset among the research analysis gave
 a slice on what had occurred during the event when the Titantic ship got sunked. 
 
 <br>
 
-[White House Visitor Logs](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/White_House_Visitor_Logs.ipynb) <br>
+[White House Visitor Logs](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/White%20House%20Visitor%20Logs/White_House_Visitor_Logs.ipynb) <br>
 This research analysis was about the snapshot on what goes around within the White House. It provides greater transparency and context behind the scene
 on who visit the Presideent of the United States.
 
 <br>
 
-[Cardiovascular Disease Research](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Cardiovascular_Disease_Research_Analysis.ipynb) <br>
+[Cardiovascular Disease Research](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Cardiovascular%20Disease%20Research/Cardiovascular_Disease_Research_Analysis.ipynb) <br>
 This project was research on the likeihood of individual becoming a smoker. The dataset was analysis through hospital patient records in the country of
 Bangladesh. 
 
 <br>
 
-[Daily Internet Usage Statistics by Age Group ](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Daily_Internet_Usage_Statistics_by_Age_Group.ipynb) <br>
+[Daily Internet Usage Statistics by Age Group ](https://github.com/dandoan0201/Dan-Doan-Data-Science-Portfolio/blob/main/Daily%20Internet%20Usage%20Statistics%20by%20Age%20Group/Daily_Internet_Usage_Statistics_by_Age_Group.ipynb) <br>
 This project was finding correlation on whether different age group have a factor upon increased usage of online activities. It gave greater clarity and insights 
 of different target age groups upon the findings. 
 
